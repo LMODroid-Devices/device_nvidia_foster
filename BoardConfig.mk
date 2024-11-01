@@ -46,7 +46,7 @@ BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/nvidia/foster/comms
 endif
 
 # Charger
-WITH_LINEAGE_CHARGER := false
+WITH_LMODROID_CHARGER := false
 
 # Fingerprint override
 BUILD_FINGERPRINT := NVIDIA/foster_e/foster:11/RQ1A.210105.003/7825230_3167.5736:user/release-keys
