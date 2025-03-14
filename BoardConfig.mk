@@ -49,7 +49,7 @@ BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/nvidia/foster/comms
 endif
 
 # Charger
-WITH_LINEAGE_CHARGER := false
+WITH_LMODROID_CHARGER := false
 
 # Kernel
 ifneq ($(TARGET_PREBUILT_KERNEL),)
